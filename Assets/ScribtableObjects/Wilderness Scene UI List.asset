@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2a55665b77dc024086d5f76e2bfbe08, type: 3}
+  m_Name: Wilderness Scene UI List
+  m_EditorClassIdentifier: 
+  CanvasPrefabToDisplay:
+  - {fileID: 2157401240825905643, guid: 0dea0589dd263c143b01a7ccc395a0a6, type: 3}
+  replaceCurrentUI: 0
+  rememberOldUI: 0
+  blockPlayerInput: 0
